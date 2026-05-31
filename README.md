@@ -9,7 +9,7 @@ Section](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA
 ---
 ### Screenshot
 
-![Blog Preview Card Solution](preview.jpg)
+![Blog Preview Card Solution](design/desktop-preview.jpg)
 
 ---
 ## ■ Demo ao vivo
