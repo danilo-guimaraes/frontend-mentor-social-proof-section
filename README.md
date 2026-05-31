@@ -7,6 +7,11 @@
 Section](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA)
 > do Frontend Mentor. Nível: **Newbie** · Stack: **HTML5 · CSS3**
 ---
+### Screenshot
+
+![Blog Preview Card Solution](preview.jpg)
+
+---
 ## ■ Demo ao vivo
 **[■ Acesse aqui](https://danilo-guimaraes.github.io/frontend-mentor-social-proof-section/)**
 ---
